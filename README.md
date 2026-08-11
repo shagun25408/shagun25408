@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **a 3d game on unreal engine**  
+🔭 &nbsp;I'm currently working on **a 3D game on unreal engine**  
 🌱 &nbsp;I'm currently learning **Rust and distributed systems**  
 👯 &nbsp;I'm looking to collaborate on **LLM projects**
 
