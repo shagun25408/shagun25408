@@ -51,8 +51,6 @@
   <a href="mailto:shagungupta5002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-![Pac-Man](https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/docs/pacman-contribution-graph.svg)
-
 
 
 ### 📈 Contribution Graph
