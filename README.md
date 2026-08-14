@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=610&height=44&lines=I%20am%20a%20DevOps%20%2B%20AIML%20software%20engineer" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🚀 About 
 
 🔭 &nbsp;I'm currently working on **a 3D game on unreal engine**  
 🌱 &nbsp;I'm currently learning **Rust and distributed systems**  
